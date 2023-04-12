@@ -5,7 +5,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Miguel Sanches Braga Inácio
-* Nome completo do aluno 2
+* Alex Júnio Pires Oliveira
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 4
@@ -17,7 +17,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Nome completo do professor 2
 
 ## Quadro de tarefas
-Coloque aqui o link para acesso do Kanban do projeto, seja ele no GitHub ou em outra plataforma.
+https://trello.com/b/3zSomcAw/findpet
 
 ## Instruções para uso
 Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo).
