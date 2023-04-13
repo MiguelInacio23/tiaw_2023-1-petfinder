@@ -1,0 +1,37 @@
+body {
+  background-color: #292929;
+}
+
+.animal {
+  background: url("img/fundo\ 1.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.nav-item > .nav-link,
+.perdido > .text-center > h1,
+.container-cadastro-ong > h2,
+.container-cadastro-ong > p {
+  color: rgb(226, 113, 0) !important;
+}
+.perdido {
+  margin-top: 3px;
+  background-image: url("img/fundo\ 2.jpg");
+
+  height: 500px;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+.container-cadastro-ong {
+  margin: 0 40px;
+  height: 190px;
+  width: 900px;
+  opacity: 1 !important;
+}
+
+/*carrossel*/
+
+.img-carrossel {
+  height: 250px;
+}
